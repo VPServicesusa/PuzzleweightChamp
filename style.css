@@ -25,7 +25,7 @@ a{color:var(--blue)}
 .nav a:hover,.nav a[aria-current="page"]{color:#fff;text-decoration:underline;text-underline-offset:4px}
 
 /* hero */
-.hero{background:var(--navy) url(img/pat_light.webp) center/420px;background-blend-mode:soft-light;color:#fff;overflow:hidden}
+.hero{background:var(--navy) url(pat_light.webp) center/420px;background-blend-mode:soft-light;color:#fff;overflow:hidden}
 .hero .wrap{display:grid;grid-template-columns:1.1fr .9fr;gap:24px;align-items:center;padding-top:40px;padding-bottom:56px}
 .hero .logo{width:min(420px,100%);filter:drop-shadow(0 10px 24px rgba(0,0,0,.35))}
 .hero h1{font-size:clamp(2rem,5vw,3.1rem);line-height:1.08;margin:14px 0 12px;letter-spacing:-.02em}
