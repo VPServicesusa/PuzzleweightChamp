@@ -1,0 +1,20 @@
+PUZZLEWEIGHT CHAMP WEBSITE: VERSION 1.1 UPDATE
+
+Upload these files the day version 1.1 is live on the App Store.
+
+1. On github.com, open the PuzzleweightChamp repository.
+2. Click Add file > Upload files.
+3. Drag in these 6 files (not this text file):
+     index.html, support.html, terms.html, style.css,
+     shot-worlds.webp, shot-tinker.webp (new)
+   Files with the same name replace the old ones.
+4. Click Commit changes. The site updates in a minute or two.
+   Refresh vpservicesusa.github.io/PuzzleweightChamp/ in Safari to check.
+
+What changes: 33 puzzles and six worlds, Tinker Town (with a new
+screenshot), Knot Not and Maze Rush, 6,600 levels, remixes, Expert online,
+two new support answers (remixes and earning coins), and the online turn
+limit corrected from 3 to 5 days.
+
+Can go up now: terms.html only changes 3 days to 5 days, which is already
+true in version 1.0, so it's safe to upload today.
